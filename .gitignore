@@ -1,0 +1,5 @@
+# Ignore everything in venv
+venv/
+
+# Ignore everything in .idea
+.idea/
