@@ -3,3 +3,6 @@ venv/
 
 # Ignore everything in .idea
 .idea/
+
+# Ignore everything in __pycache__
+__pycache__/
